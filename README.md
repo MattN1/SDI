@@ -1,5 +1,8 @@
 # SDI
-## Project Description
-## Group
-Tutor
 Software Design &amp; Implementation
+
+## Project Description
+
+## Group
+
+## Tutor
